@@ -4,9 +4,31 @@ repo: hyag # The name of this repository
 
 sites:
   - name: HYAG
-    url: https://www.hanseyachtsag.com
+    url: https://www.hanseyachtsag.com/us/
   - name: HYAG Shop
-    url: https://shop.hanseyachtsag.com
+    url: https://shop.hanseyachtsag.com/
+  - name: Hanse Yachts
+    url: https://www.hanseyachtsag.com/hanse/us/
+    icon: https://www.hanseyachtsag.com/hanse/assets/img/favicon.ico
+  - name: Moody Boats
+    url: https://www.hanseyachtsag.com/moody/us/
+    icon: https://www.hanseyachtsag.com/moody/assets/img/favicon.ico 
+  - name: Dehler Yachts
+    url: https://www.hanseyachtsag.com/dehler/us/
+    icon: https://www.hanseyachtsag.com/dehler/typo3conf/ext/hanse_site/Resources/Public/img/favicon-dehler-gray-trans.ico
+  - name: FJORD Boats
+    url: https://www.hanseyachtsag.com/fjord/us/
+    icon: https://www.hanseyachtsag.com/fjord/typo3conf/ext/hanse_site/Resources/Public/dist/shared/media/favicons/fjord.ico
+  - name: SEALINE
+    url: https://www.hanseyachtsag.com/sealine/us/
+    icon: https://www.hanseyachtsag.com/sealine/typo3conf/ext/hanse_site/Resources/Public/dist/shared/media/favicons/sealine.ico
+  - name: RYCK
+    url: https://www.hanseyachtsag.com/ryck/us/
+    icon: https://www.hanseyachtsag.com/ryck/media/favicon_c.png
+  - name: HYAG Ping
+    check: "tcp-ping"
+    url: 212.237.244.91
+    port: 80
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
