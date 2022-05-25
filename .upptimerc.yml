@@ -29,6 +29,30 @@ sites:
     check: "tcp-ping"
     url: 212.237.244.91
     port: 80
+  - name: AG Sailboats
+    url: https://www.hanseyachtsag.com/us/sailboats/
+	- name: AG Catamarans
+    url: https://www.hanseyachtsag.com/us/catamarans/
+	- name: AG Motorboats
+    url: https://www.hanseyachtsag.com/us/motorboats/
+	- name: AG Yachts
+    url: https://www.hanseyachtsag.com/us/yachts/
+	- name: AG Brands
+    url: https://www.hanseyachtsag.com/us/brands/
+	- name: AG Catamarans
+    url: https://www.hanseyachtsag.com/us/brands/hanse/
+	- name: AG Catamarans
+    url: https://www.hanseyachtsag.com/us/brands/dehler/
+	- name: AG Catamarans
+    url: https://www.hanseyachtsag.com/us/brands/moody/
+	- name: AG Catamarans
+    url: https://www.hanseyachtsag.com/us/brands/privilege/
+	- name: AG Catamarans
+    url: https://www.hanseyachtsag.com/us/brands/fjord/
+	- name: AG Catamarans
+    url: https://www.hanseyachtsag.com/us/brands/sealine/
+	- name: AG Catamarans
+    url: https://www.hanseyachtsag.com/us/brands/ryck/
   - name: Fraser Yachts
     url: https://www.fraseryachts.com/
   - name: Beneteau    
