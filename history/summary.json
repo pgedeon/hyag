@@ -331,18 +331,20 @@
     "url": "https://www.hanseyachtsag.com/us/brands/privilege/",
     "icon": "https://favicons.githubusercontent.com/www.hanseyachtsag.com",
     "slug": "ag-privilege",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 54,
-    "timeDay": 17,
-    "timeWeek": 103,
-    "timeMonth": 42,
-    "timeYear": 54,
-    "dailyMinutesDown": {}
+    "time": 66,
+    "timeDay": 529,
+    "timeWeek": 220,
+    "timeMonth": 73,
+    "timeYear": 66,
+    "dailyMinutesDown": {
+      "2022-08-16": 0
+    }
   },
   {
     "name": "AG FJORD",
