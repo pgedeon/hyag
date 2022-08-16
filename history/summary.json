@@ -331,19 +331,19 @@
     "url": "https://www.hanseyachtsag.com/us/brands/privilege/",
     "icon": "https://favicons.githubusercontent.com/www.hanseyachtsag.com",
     "slug": "ag-privilege",
-    "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "95.03%",
-    "uptimeWeek": "99.29%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.94%",
-    "time": 84,
-    "timeDay": 392,
-    "timeWeek": 274,
-    "timeMonth": 116,
-    "timeYear": 84,
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "93.44%",
+    "uptimeWeek": "99.06%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.92%",
+    "time": 85,
+    "timeDay": 363,
+    "timeWeek": 265,
+    "timeMonth": 117,
+    "timeYear": 85,
     "dailyMinutesDown": {
-      "2022-08-16": 72
+      "2022-08-16": 95
     }
   },
   {
