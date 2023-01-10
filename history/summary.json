@@ -135,19 +135,19 @@
     "url": "https://www.hanseyachtsag.com/sealine/us/",
     "icon": "https://www.hanseyachtsag.com/sealine/typo3conf/ext/hanse_site/Resources/Public/dist/shared/media/favicons/sealine.ico",
     "slug": "sealine",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 64,
-    "timeDay": 4885,
-    "timeWeek": 1230,
-    "timeMonth": 338,
+    "timeDay": 3258,
+    "timeWeek": 1094,
+    "timeMonth": 327,
     "timeYear": 64,
     "dailyMinutesDown": {
-      "2023-01-10": 2
+      "2023-01-10": 7
     }
   },
   {
@@ -191,19 +191,19 @@
     "url": "https://www.hanseyachtsag.com/us/sailboats/",
     "icon": "https://icons.duckduckgo.com/ip3/www.hanseyachtsag.com.ico",
     "slug": "ag-sailboats",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 77,
-    "timeDay": 5369,
-    "timeWeek": 1358,
-    "timeMonth": 372,
-    "timeYear": 77,
+    "time": 76,
+    "timeDay": 3581,
+    "timeWeek": 1207,
+    "timeMonth": 360,
+    "timeYear": 76,
     "dailyMinutesDown": {
-      "2023-01-10": 2
+      "2023-01-10": 6
     }
   },
   {
@@ -285,19 +285,19 @@
     "url": "https://www.hanseyachtsag.com/us/brands/hanse/",
     "icon": "https://icons.duckduckgo.com/ip3/www.hanseyachtsag.com.ico",
     "slug": "ag-hanse",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 93,
-    "timeDay": 5165,
-    "timeWeek": 1298,
-    "timeMonth": 335,
+    "timeDay": 3445,
+    "timeWeek": 1154,
+    "timeMonth": 325,
     "timeYear": 93,
     "dailyMinutesDown": {
-      "2023-01-10": 1
+      "2023-01-10": 6
     }
   },
   {
@@ -305,19 +305,19 @@
     "url": "https://www.hanseyachtsag.com/us/brands/dehler/",
     "icon": "https://icons.duckduckgo.com/ip3/www.hanseyachtsag.com.ico",
     "slug": "ag-dehler",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 49,
-    "timeDay": 2148,
-    "timeWeek": 544,
-    "timeMonth": 165,
+    "timeDay": 1433,
+    "timeWeek": 484,
+    "timeMonth": 161,
     "timeYear": 49,
     "dailyMinutesDown": {
-      "2023-01-10": 1
+      "2023-01-10": 6
     }
   },
   {
@@ -399,19 +399,19 @@
     "url": "https://www.hanseyachtsag.com/us/brands/fjord/",
     "icon": "https://icons.duckduckgo.com/ip3/www.hanseyachtsag.com.ico",
     "slug": "ag-fjord",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 81,
-    "timeDay": 5221,
-    "timeWeek": 1313,
-    "timeMonth": 339,
+    "timeDay": 3482,
+    "timeWeek": 1168,
+    "timeMonth": 329,
     "timeYear": 81,
     "dailyMinutesDown": {
-      "2023-01-10": 1
+      "2023-01-10": 5
     }
   },
   {
