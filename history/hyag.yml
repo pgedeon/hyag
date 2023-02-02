@@ -1,7 +1,7 @@
 url: https://www.hanseyachtsag.com/us/
-status: up
-code: 200
-responseTime: 125
-lastUpdated: 2023-02-01T23:12:16.153Z
+status: down
+code: 503
+responseTime: 482
+lastUpdated: 2023-02-02T16:18:11.477Z
 startTime: Thu May 12 2022 08:45:21 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
