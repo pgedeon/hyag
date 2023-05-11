@@ -1,7 +1,7 @@
 url: https://www.beneteau.com/us
-status: up
-code: 200
-responseTime: 1131
-lastUpdated: 2023-05-10T23:11:54.806Z
+status: down
+code: 500
+responseTime: 4200
+lastUpdated: 2023-05-11T17:10:16.302Z
 startTime: Thu May 12 2022 14:44:42 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
