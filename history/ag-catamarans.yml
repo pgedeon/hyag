@@ -1,7 +1,7 @@
 url: https://www.hanseyachtsag.com/us/catamarans/
-status: up
-code: 200
-responseTime: 414
-lastUpdated: 2023-06-11T23:11:22.692Z
+status: down
+code: 503
+responseTime: 230
+lastUpdated: 2023-06-12T15:10:48.567Z
 startTime: Wed May 25 2022 07:45:42 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
