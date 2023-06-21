@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 231,
-    "timeDay": 252,
-    "timeWeek": 128,
-    "timeMonth": 125,
-    "timeYear": 201,
+    "timeDay": 61,
+    "timeWeek": 119,
+    "timeMonth": 124,
+    "timeYear": 200,
     "dailyMinutesDown": {
       "2023-02-02": 23
     }
@@ -31,13 +31,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 301,
-    "timeDay": 449,
-    "timeWeek": 342,
-    "timeMonth": 413,
+    "timeDay": 314,
+    "timeWeek": 347,
+    "timeMonth": 408,
     "timeYear": 278,
-    "dailyMinutesDown": {
-      "2022-06-21": 18
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Hanse Yachts",
@@ -51,8 +49,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 60,
-    "timeDay": 31,
-    "timeWeek": 15,
+    "timeDay": 8,
+    "timeWeek": 13,
     "timeMonth": 15,
     "timeYear": 59,
     "dailyMinutesDown": {
@@ -71,9 +69,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 44,
-    "timeDay": 96,
+    "timeDay": 5,
     "timeWeek": 19,
-    "timeMonth": 11,
+    "timeMonth": 10,
     "timeYear": 44,
     "dailyMinutesDown": {
       "2023-02-02": 23
@@ -91,8 +89,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 45,
-    "timeDay": 120,
-    "timeWeek": 24,
+    "timeDay": 5,
+    "timeWeek": 23,
     "timeMonth": 13,
     "timeYear": 45,
     "dailyMinutesDown": {
@@ -111,8 +109,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 73,
-    "timeDay": 29,
-    "timeWeek": 12,
+    "timeDay": 6,
+    "timeWeek": 11,
     "timeMonth": 10,
     "timeYear": 72,
     "dailyMinutesDown": {
@@ -131,9 +129,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 72,
-    "timeDay": 42,
-    "timeWeek": 12,
+    "time": 71,
+    "timeDay": 5,
+    "timeWeek": 11,
     "timeMonth": 9,
     "timeYear": 76,
     "dailyMinutesDown": {
@@ -151,9 +149,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 342,
-    "timeDay": 41,
-    "timeWeek": 13,
+    "time": 341,
+    "timeDay": 5,
+    "timeWeek": 12,
     "timeMonth": 9,
     "timeYear": 377,
     "dailyMinutesDown": {
@@ -172,9 +170,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 70,
-    "timeDay": 45,
-    "timeWeek": 13,
-    "timeMonth": 94,
+    "timeDay": 7,
+    "timeWeek": 12,
+    "timeMonth": 78,
     "timeYear": 73,
     "dailyMinutesDown": {
       "2023-02-02": 23
@@ -192,9 +190,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 124,
-    "timeDay": 149,
+    "timeDay": 100,
     "timeWeek": 129,
-    "timeMonth": 129,
+    "timeMonth": 127,
     "timeYear": 124,
     "dailyMinutesDown": {
       "2023-01-25": 26
@@ -212,10 +210,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 69,
-    "timeDay": 39,
+    "timeDay": 11,
     "timeWeek": 13,
     "timeMonth": 9,
-    "timeYear": 71,
+    "timeYear": 70,
     "dailyMinutesDown": {
       "2023-02-02": 23
     }
@@ -231,11 +229,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.97%",
-    "time": 205,
-    "timeDay": 429,
-    "timeWeek": 366,
-    "timeMonth": 350,
-    "timeYear": 216,
+    "time": 206,
+    "timeDay": 769,
+    "timeWeek": 413,
+    "timeMonth": 357,
+    "timeYear": 218,
     "dailyMinutesDown": {
       "2023-06-12": 21,
       "2023-05-30": 24,
@@ -256,9 +254,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 40,
-    "timeDay": 11,
-    "timeWeek": 7,
+    "time": 39,
+    "timeDay": 4,
+    "timeWeek": 6,
     "timeMonth": 7,
     "timeYear": 41,
     "dailyMinutesDown": {
@@ -277,7 +275,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 43,
-    "timeDay": 39,
+    "timeDay": 4,
     "timeWeek": 11,
     "timeMonth": 9,
     "timeYear": 40,
@@ -297,7 +295,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 42,
-    "timeDay": 11,
+    "timeDay": 4,
     "timeWeek": 7,
     "timeMonth": 7,
     "timeYear": 41,
@@ -317,10 +315,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 80,
-    "timeDay": 47,
+    "timeDay": 5,
     "timeWeek": 13,
     "timeMonth": 10,
-    "timeYear": 79,
+    "timeYear": 78,
     "dailyMinutesDown": {
       "2023-02-02": 23
     }
@@ -337,8 +335,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 55,
-    "timeDay": 40,
-    "timeWeek": 12,
+    "timeDay": 4,
+    "timeWeek": 11,
     "timeMonth": 9,
     "timeYear": 52,
     "dailyMinutesDown": {
@@ -357,8 +355,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 43,
-    "timeDay": 39,
-    "timeWeek": 12,
+    "timeDay": 4,
+    "timeWeek": 11,
     "timeMonth": 8,
     "timeYear": 39,
     "dailyMinutesDown": {
@@ -371,16 +369,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.hanseyachtsag.com.ico",
     "slug": "ag-privilege",
     "status": "up",
-    "uptime": "91.44%",
+    "uptime": "91.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "90.82%",
-    "time": 249,
-    "timeDay": 415,
+    "time": 250,
+    "timeDay": 444,
     "timeWeek": 415,
     "timeMonth": 363,
-    "timeYear": 258,
+    "timeYear": 259,
     "dailyMinutesDown": {
       "2023-06-12": 21,
       "2023-05-30": 24,
@@ -437,8 +435,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 70,
-    "timeDay": 13,
-    "timeWeek": 8,
+    "timeDay": 4,
+    "timeWeek": 7,
     "timeMonth": 7,
     "timeYear": 68,
     "dailyMinutesDown": {
@@ -457,10 +455,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 51,
-    "timeDay": 12,
-    "timeWeek": 9,
+    "timeDay": 4,
+    "timeWeek": 8,
     "timeMonth": 8,
-    "timeYear": 47,
+    "timeYear": 46,
     "dailyMinutesDown": {
       "2023-02-02": 23
     }
@@ -477,8 +475,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 39,
-    "timeDay": 40,
-    "timeWeek": 12,
+    "timeDay": 5,
+    "timeWeek": 11,
     "timeMonth": 9,
     "timeYear": 35,
     "dailyMinutesDown": {
@@ -492,17 +490,16 @@
     "slug": "fraser-yachts",
     "status": "up",
     "uptime": "99.25%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.18%",
     "time": 2508,
-    "timeDay": 2745,
-    "timeWeek": 2629,
-    "timeMonth": 3060,
-    "timeYear": 2514,
+    "timeDay": 2672,
+    "timeWeek": 2643,
+    "timeMonth": 3062,
+    "timeYear": 2513,
     "dailyMinutesDown": {
-      "2023-06-20": 6,
       "2022-10-10": 532,
       "2022-10-09": 1440,
       "2022-10-08": 1440,
@@ -513,8 +510,7 @@
       "2022-09-30": 112,
       "2022-07-06": 16,
       "2022-06-30": 21,
-      "2022-06-29": 28,
-      "2022-06-21": 31
+      "2022-06-29": 28
     }
   },
   {
@@ -529,10 +525,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.84%",
     "time": 1079,
-    "timeDay": 1098,
-    "timeWeek": 1216,
-    "timeMonth": 1689,
-    "timeYear": 1107,
+    "timeDay": 1206,
+    "timeWeek": 1217,
+    "timeMonth": 1678,
+    "timeYear": 1108,
     "dailyMinutesDown": {
       "2023-03-30": 54,
       "2023-03-27": 56,
