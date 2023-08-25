@@ -1,7 +1,7 @@
 url: https://www.hanseyachtsag.com/fjord/us/
-status: up
-code: 200
-responseTime: 11
-lastUpdated: 2023-08-24T23:10:33.033Z
+status: down
+code: 500
+responseTime: 574
+lastUpdated: 2023-08-25T15:38:37.172Z
 startTime: 2022-05-12T09:22:24.000Z
 generator: Upptime <https://github.com/upptime/upptime>
