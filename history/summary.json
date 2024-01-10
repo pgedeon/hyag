@@ -24,18 +24,19 @@
     "url": "https://shop.hanseyachtsag.com/",
     "icon": "https://icons.duckduckgo.com/ip3/shop.hanseyachtsag.com.ico",
     "slug": "hyag-shop",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 376,
-    "timeDay": 642,
-    "timeWeek": 651,
-    "timeMonth": 608,
-    "timeYear": 425,
+    "time": 380,
+    "timeDay": 1515,
+    "timeWeek": 868,
+    "timeMonth": 664,
+    "timeYear": 430,
     "dailyMinutesDown": {
+      "2024-01-10": 0,
       "2023-10-20": 22
     }
   },
@@ -162,7 +163,7 @@
     "timeDay": 6,
     "timeWeek": 10,
     "timeMonth": 9,
-    "timeYear": 370,
+    "timeYear": 345,
     "dailyMinutesDown": {
       "2023-02-02": 23
     }
@@ -225,7 +226,7 @@
     "timeDay": 5,
     "timeWeek": 11,
     "timeMonth": 8,
-    "timeYear": 62,
+    "timeYear": 33,
     "dailyMinutesDown": {
       "2023-02-02": 23
     }
@@ -236,7 +237,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.hanseyachtsag.com.ico",
     "slug": "ag-catamarans",
     "status": "up",
-    "uptime": "99.10%",
+    "uptime": "99.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -339,7 +340,7 @@
     "timeDay": 6,
     "timeWeek": 10,
     "timeMonth": 8,
-    "timeYear": 64,
+    "timeYear": 36,
     "dailyMinutesDown": {
       "2023-02-02": 23
     }
@@ -359,7 +360,7 @@
     "timeDay": 5,
     "timeWeek": 9,
     "timeMonth": 8,
-    "timeYear": 50,
+    "timeYear": 38,
     "dailyMinutesDown": {
       "2023-02-02": 23
     }
@@ -390,7 +391,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.hanseyachtsag.com.ico",
     "slug": "ag-privilege",
     "status": "up",
-    "uptime": "93.49%",
+    "uptime": "93.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -432,7 +433,7 @@
     "timeDay": 5,
     "timeWeek": 10,
     "timeMonth": 8,
-    "timeYear": 60,
+    "timeYear": 31,
     "dailyMinutesDown": {
       "2023-02-02": 23
     }
@@ -510,7 +511,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.beneteau.com.ico",
     "slug": "beneteau",
     "status": "up",
-    "uptime": "98.94%",
+    "uptime": "98.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
