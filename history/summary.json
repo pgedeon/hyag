@@ -160,18 +160,20 @@
     "url": "https://www.hanseyachtsag.com/ryck/us/",
     "icon": "https://www.hanseyachtsag.com/ryck/media/favicon_c.png",
     "slug": "ryck",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 56,
-    "timeDay": 10,
-    "timeWeek": 11,
-    "timeMonth": 33,
-    "timeYear": 48,
-    "dailyMinutesDown": {}
+    "time": 57,
+    "timeDay": 399,
+    "timeWeek": 122,
+    "timeMonth": 57,
+    "timeYear": 50,
+    "dailyMinutesDown": {
+      "2024-08-16": 0
+    }
   },
   {
     "name": "HYAG Ping",
@@ -475,7 +477,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.40%",
     "time": 1694,
-    "timeDay": 7125,
+    "timeDay": 997,
     "timeWeek": 3037,
     "timeMonth": 1727,
     "timeYear": 1744,
