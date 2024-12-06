@@ -22,19 +22,19 @@
     "url": "https://shop.hanseyachtsag.com/",
     "icon": "https://icons.duckduckgo.com/ip3/shop.hanseyachtsag.com.ico",
     "slug": "hyag-shop",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.29%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 680,
-    "timeDay": 436,
-    "timeWeek": 525,
-    "timeMonth": 588,
-    "timeYear": 695,
+    "timeDay": 472,
+    "timeWeek": 527,
+    "timeMonth": 587,
+    "timeYear": 694,
     "dailyMinutesDown": {
-      "2024-12-06": 0
+      "2024-12-06": 10
     }
   },
   {
