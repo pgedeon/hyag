@@ -1,7 +1,7 @@
 url: https://www.hanseyachtsag.com/us/motorboats/
-status: up
-code: 200
-responseTime: 9126
-lastUpdated: 2025-08-04T23:19:57.466Z
+status: down
+code: 504
+responseTime: 15638
+lastUpdated: 2025-08-05T10:01:31.321Z
 startTime: 2022-05-25T07:45:43.000Z
 generator: Upptime <https://github.com/upptime/upptime>
